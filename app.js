@@ -38,3 +38,21 @@ if (stopLight === 'green') {
 } else {
   console.log('Slow Down');
 }
+
+let vount = 0;
+
+while(count !== 10) {
+  console.log(count);
+  // count +=; // count = count +1
+  count++;
+  //now count = 10
+
+while
+
+
+  //for loop
+let countDown = 10;
+
+  for (let i = 0; i < countDown; i++) {
+    console.log(i);
+  }
